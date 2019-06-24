@@ -1,0 +1,2 @@
+# MyVbProject
+simple publish
